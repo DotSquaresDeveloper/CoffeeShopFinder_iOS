@@ -19,4 +19,4 @@ Installation
 IDE: XCode 6.3
 OS: Mac 10.10.3
 Language: Swift 1.2
-Device: iPhone Only
+Device: iPhone Only version iOS 8
